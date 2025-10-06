@@ -1,3 +1,9 @@
+---
+layout: default
+title: Terms of Use
+nav_exclude: true
+---
+
 # Terms of Use for Hubsi
 
 **Last Updated:** October 6, 2025
