@@ -1,3 +1,12 @@
 theme: minima
 title: Hubsi
 description: Mobile Control for WomoTech RV Leveling Systems
+email: apphubsi@gmail.com
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - .gitignore
+
+# Show excerpts on home page
+show_excerpts: false
