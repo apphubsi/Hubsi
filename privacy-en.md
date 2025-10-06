@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy Policy
+nav_exclude: true
+---
+
 # Privacy Policy for Hubsi
 
 **Last Updated:** October 6, 2025
