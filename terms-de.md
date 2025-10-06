@@ -1,3 +1,9 @@
+---
+layout: default
+title: Nutzungsbedingungen
+nav_exclude: true
+---
+
 # Nutzungsbedingungen für Hubsi
 
 **Letzte Aktualisierung:** 6. Oktober 2025
