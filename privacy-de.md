@@ -1,3 +1,9 @@
+---
+layout: default
+title: Datenschutzerklärung
+nav_exclude: true
+---
+
 # Datenschutzerklärung für Hubsi
 
 **Letzte Aktualisierung:** 6. Oktober 2025
